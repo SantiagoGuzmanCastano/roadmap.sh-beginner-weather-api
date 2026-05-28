@@ -2,6 +2,8 @@
 
 A RESTful API Gateway built with **FastAPI** that fetches real-time weather data from [Visual Crossing](https://www.visualcrossing.com/weather-api), caches responses with **Redis**, and protects endpoints with **rate limiting**.
 
+> 📌 Project from [roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service)
+
 Built as part of the [roadmap.sh](https://roadmap.sh) backend beginner projects.
 
 ---
