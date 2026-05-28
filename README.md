@@ -4,7 +4,6 @@ A RESTful API Gateway built with **FastAPI** that fetches real-time weather data
 
 > 📌 Project from [roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service)
 
-Built as part of the [roadmap.sh](https://roadmap.sh) backend beginner projects.
 
 ---
 
